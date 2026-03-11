@@ -17,7 +17,7 @@ Rochester, New York
 
 ## 💼 Experience
 
-### Security Analyst — Deepiri (Open Source Organization)
+### Security Analyst — Deepiri
 
 Working as a **Security Analyst** contributing to open-source security initiatives.
 
