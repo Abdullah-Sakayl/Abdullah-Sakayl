@@ -42,6 +42,18 @@ Key work included:
 - Assisting with risk management assessments
 - Supporting policy and control implementation aligned with institutional security standards
 
+### Innovation Fellows Engineer — Rochester Institute of Technology
+
+Internship focused on product innovation, technical research, and startup collaboration.
+
+Key work included:
+
+- Led a cross-disciplinary team to develop innovative technical solutions for startup organizations
+- Conducted customer discovery interviews to analyze user needs and evaluate product-market fit
+- Designed and developed a minimum viable prototype (MVP) based on research findings
+- Built and presented a technical and business pitch deck to stakeholders including market analysis and feasibility
+- Applied technical research, strategic planning, and engineering problem solving to refine product concepts
+- Collaborated with mentors and industry professionals to evaluate technical scalability and business viability
 ---
 
 ## Research
