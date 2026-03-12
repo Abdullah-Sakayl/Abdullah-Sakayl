@@ -2,8 +2,11 @@
 
 # Abdullah Sakayl
 
-Cybersecurity student at **Rochester Institute of Technology (RIT)** focused on security engineering, cryptography, and distributed systems.  
-I enjoy building systems that combine **security, blockchain, and modern infrastructure** to solve real-world trust and integrity problems.
+B.S. in Cybersecurity **Rochester Institute of Technology (RIT)**
+
+Interested in security engineering, cryptography, DevSecOps, and distributed systems.  
+
+I enjoy building systems that combine **security, blockchain, and modern infrastructure** to solve real-world trust and integrity problems!
 
 ---
 
