@@ -2,12 +2,15 @@
 
 # Abdullah Sakayl
 
-Cybersecurity student at **Rochester Institute of Technology (RIT)** focused on security engineering, cryptography, and distributed systems.  
-I enjoy building systems that combine **security, blockchain, and modern infrastructure** to solve real-world trust and integrity problems.
+B.S. in Cybersecurity **Rochester Institute of Technology (RIT)**
+
+Interested in security engineering, cryptography, DevSecOps, and distributed systems.  
+
+I enjoy building systems that combine **security, blockchain, and modern infrastructure** to solve real-world trust and integrity problems!
 
 ---
 
-## 🎓 Education
+## Education
 
 **Rochester Institute of Technology (RIT)**  
 Bachelor’s Degree — Cybersecurity  
@@ -15,11 +18,11 @@ Rochester, New York
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Security Analyst — Deepiri
 
-Working as a **Security Analyst** contributing to open-source security initiatives.
+Currently I'm a **Security Analyst** contributing to security initiatives for an open source organization with 50+ members.
 
 Responsibilities include:
 
@@ -42,9 +45,21 @@ Key work included:
 - Assisting with risk management assessments
 - Supporting policy and control implementation aligned with institutional security standards
 
+### Innovation Fellows Engineer — Rochester Institute of Technology
+
+Internship focused on product innovation, technical research, and startup collaboration.
+
+Key work included:
+
+- Led a cross-disciplinary team to develop innovative technical solutions for startup organizations
+- Conducted customer discovery interviews to analyze user needs and evaluate product-market fit
+- Designed and developed a minimum viable prototype (MVP) based on research findings
+- Built and presented a technical and business pitch deck to stakeholders including market analysis and feasibility
+- Applied technical research, strategic planning, and engineering problem solving to refine product concepts
+- Collaborated with mentors and industry professionals to evaluate technical scalability and business viability
 ---
 
-## 🔬 Research
+## Research
 
 ### Post-Quantum Cryptography for Automotive Systems
 
@@ -62,10 +77,6 @@ Focus areas:
 - Embedded cryptography
 - Secure firmware systems
 - Future-proof automotive security
-
----
-
-## 🚀 Featured Project
 
 ### Blockchain-Based Digital Certification System for Fraud Detection
 
@@ -86,51 +97,25 @@ Applications include:
 
 ---
 
-## 🛠 Security Tools & Technologies
-
-### Security & Analysis
+## Tools & Technologies
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-F05A28?style=flat-square)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=flat-square)
-
----
-
-### Cloud & Infrastructure
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
----
-
-### Development & DevOps
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### Blockchain & Cryptography
-
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
----
-
-### Systems & Engineering
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 ---
 
-## 📫 Contact
-
-Feel free to connect or collaborate on security research and open source projects.
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: (add your LinkedIn)
+## Contact
+- LinkedIn: https://www.linkedin.com/in/abdullahsakayl
